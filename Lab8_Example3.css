@@ -1,0 +1,28 @@
+body{
+	background-color:white;
+}
+
+#wrapper{
+	width:auto;
+	height:150px;
+  background-color:green;
+}
+
+#content_1{
+  position:absolute;
+  top:15px;
+  left:30px;
+  width:1060px;
+	height:70px;
+  color:red;
+  padding: 15px 10px 15px 10px;
+	border-style: dotted;
+	border-width: 3px;
+	border-color: black;
+}
+
+#annoyingtext{
+	position: absolute;
+	color: purple;
+	top:125px;
+}
